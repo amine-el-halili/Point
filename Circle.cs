@@ -1,18 +1,18 @@
-﻿namespace Point
+﻿namespace Shapes
 {
     class Circle : Point
     {
         private float radius;
 
-        public Circle(): base()
+        public Circle() : base()
         {
             radius = 0;
         }
-        public Circle(Point center, float radius): base(center.getX(), center.getY())
+        public Circle(Point center, float radius) : base(center.getX(), center.getY())
         {
             this.radius = radius;
         }
-    
+
         public float getRadius()
         {
             return radius;

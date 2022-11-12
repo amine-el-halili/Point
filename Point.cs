@@ -1,4 +1,4 @@
-﻿namespace Point
+﻿namespace Shapes
 {
     class Point
     {
