@@ -10,4 +10,9 @@ implementation file: Point.cs
 (The relation btw circle and point: circle is-like point)
 implementation file: Circle.cs 
 
+# Exercice 4 => Line
+implementation file: Line.cs 
+
+**[Line equation => y = mx + y]**: I depent on this equation for writing all methods of this class, the demonstration will be uploaded soon
+
 <img src="https://user-images.githubusercontent.com/116503971/201479294-6e1aaa7c-7970-4469-a74a-a3bfda971c5e.png" alt="drawing" width="20"/> Work has not been finished yet.
