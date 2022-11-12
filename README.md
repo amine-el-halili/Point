@@ -1,2 +1,3 @@
 # Exercice 3 => Point
-![image](https://user-images.githubusercontent.com/116503971/201200530-ce98f8ea-208f-4993-9d46-5642afee8887.png)
+![image](https://user-images.githubusercontent.com/116503971/201475746-2e541508-7ec5-4d3f-8d04-9a0260110421.png)
+implementation file: Point.cs
