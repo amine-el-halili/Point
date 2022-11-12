@@ -41,5 +41,13 @@
         {
             return (new Point(getX(), getY()));
         }
+
+        // technic of method hidding
+        public new Circle translate(double a, double b)
+        {
+            base.translate(a, b);
+
+            return this;
+        }
     }
 }
