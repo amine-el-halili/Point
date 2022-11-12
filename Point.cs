@@ -43,7 +43,7 @@
             return (x == pt.x) && (y == pt.y);
         }
 
-        public Point translate(int a, int b)
+        public Point translate(double a, double b)
         {
             x += a;
             y += b;
