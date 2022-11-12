@@ -36,5 +36,10 @@
         {
             return (radius * radius * Math.PI);
         }
+
+        public Point getCenter()
+        {
+            return (new Point(getX(), getY()));
+        }
     }
 }
