@@ -47,7 +47,7 @@
 
         public Point intersect(Line line)
         {
-            if (!isParallel(line)) return null;
+            if (isParallel(line)) return null;
             double x = ((line.m * b) - (m * line.b)) / (b - line.b);
             double y = (line.b - b) / (b - line.b);
 
